@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 availabilityZones:
 - ${AWS_REGION}a
-- ${AWS_REGION}b
+- ${AWS_REGION}d
 - ${AWS_REGION}c
 
 metadata:
